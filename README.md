@@ -6,8 +6,7 @@
 ### About me:
 
 - 👩‍🎓 I'm 23 years old and I'm a Industrial Civil Engineering student.
-- 💻 My main interest is a Data Science.
-- 🎶 I really enjoy listening music.
+
 
 ### Technologies and Tools:
 <img align="left" title="Python" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
