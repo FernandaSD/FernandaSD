@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi there! I'm Fernanda  
 
-<!--
-**FernandaSD/FernandaSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-saavedra-donoso/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/FernandaSD)
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍🎓 I'm 23 years old and I'm a Industrial Civil Engineering student.
+- 💻 My main interest is a Data Science.
+- 🎶 I really enjoy listening music.
+
+### Technologies and Tools:
+<img align="left" title="Python" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" title="Power BI" alt="Power BI" width="40px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />
+<img align="left" title="PyTorch" alt="PyTorch" width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+<img align="left" title="MySQL" alt="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<img align="left" title="Jupyter" alt="Jupyter" width="40px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
