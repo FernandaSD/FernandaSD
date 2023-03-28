@@ -6,6 +6,9 @@
 ### About me:
 
 - 👩‍🎓 I'm 23 years old and I'm a Industrial Civil Engineering student.
+- 💻 I'm interested in Data Science.
+- 🎶 I like listening to music.
+- 🎮 I like playing videogames.
 
 
 ### Technologies and Tools:
